@@ -1,0 +1,15 @@
+C:\Users\duru.tekin\dogusDuru\obj\Debug\net10.0\dogusDuru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duru.tekin\dogusDuru\obj\Debug\net10.0\dogusDuru.AssemblyInfoInputs.cache
+C:\Users\duru.tekin\dogusDuru\obj\Debug\net10.0\dogusDuru.AssemblyInfo.cs
+C:\Users\duru.tekin\dogusDuru\obj\Debug\net10.0\dogusDuru.csproj.CoreCompileInputs.cache
+C:\Users\duru.tekin\dogusDuru\obj\Debug\net10.0\dogusDuru.sourcelink.json
+C:\Users\duru.tekin\dogusDuru\bin\Debug\net10.0\dogusDuru.exe
+C:\Users\duru.tekin\dogusDuru\bin\Debug\net10.0\dogusDuru.deps.json
+C:\Users\duru.tekin\dogusDuru\bin\Debug\net10.0\dogusDuru.runtimeconfig.json
+C:\Users\duru.tekin\dogusDuru\bin\Debug\net10.0\dogusDuru.dll
+C:\Users\duru.tekin\dogusDuru\bin\Debug\net10.0\dogusDuru.pdb
+C:\Users\duru.tekin\dogusDuru\obj\Debug\net10.0\dogusDuru.dll
+C:\Users\duru.tekin\dogusDuru\obj\Debug\net10.0\refint\dogusDuru.dll
+C:\Users\duru.tekin\dogusDuru\obj\Debug\net10.0\dogusDuru.pdb
+C:\Users\duru.tekin\dogusDuru\obj\Debug\net10.0\dogusDuru.genruntimeconfig.cache
+C:\Users\duru.tekin\dogusDuru\obj\Debug\net10.0\ref\dogusDuru.dll
